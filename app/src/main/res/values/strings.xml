@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ClientDemo</string>
+    <string name="btn_con">Connect</string>
+    <string name="btn_dis">Disconnect</string>
+    <string name="txt_ip_input_default">140.115.158.249</string>
+    <string name="txt_port_input_default">9527</string>
+    <string name="txt_ip">Server IP :</string>
+    <string name="txt_port">Port :</string>
+    <string name="status_con">Connected</string>
+    <string name="status_dis">Disconnected</string>
+    <string name="txt_empty">No Message</string>
+</resources>
